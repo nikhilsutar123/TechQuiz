@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tech Quiz</string>
+    <string name="welcome_name">!Tech Quiz!</string>
+    <string name="playButton">Play</string>
+    <string name="submitButton">Submit</string>
+    <string name="rules">Rules</string>
+    <string name="rule1">1.Questions with single answers gives you 1 PT each.</string>
+    <string name="rule2">2.Questions with multiple answers and text entry gives you 2 PTS.</string>
+    <string name="rule3">3.Your score will be out of 10 PTS.</string>
+    <string name="okButton">GOT IT!</string>
+    <string name="single">Single Answer</string>
+    <string name="multiple">Multiple Answers</string>
+    <string name="text">Text Entry</string>
+
+    <string name="ques1">Q. Who is the founder of Apple Inc. ?</string>
+    <string name="ElonMusk">Elon Musk</string>
+    <string name="SteveJobs">Steve Jobs</string>
+    <string name="thomasWatson">Thomas Watson</string>
+    <string name="timcook">Tim Cook</string>
+
+    <string name="ques2">Q. First portable phone was developed by which company?</string>
+    <string name="Apple">Apple</string>
+    <string name="Sony">Sony</string>
+    <string name="Nokia">Nokia</string>
+    <string name="Motorola">Motorola</string>
+
+    <string name="ques3">Q. what companies does Elon Musk own?</string>
+    <string name="spacex">SpaceX</string>
+    <string name="amazon">Amazon Inc.</string>
+    <string name="deepmind">Deepmind</string>
+    <string name="tesla">Tesla Inc.</string>
+
+    <string name="ques4">Q. Which of the following are Image file formats?</string>
+    <string name="jpeg">.jpeg</string>
+    <string name="wav">.wav</string>
+    <string name="png">.png</string>
+    <string name="tif">.tif</string>
+
+    <string name="ques5">Q. What does RAM stands for?</string>
+    <string name="ques6">Q. How much Byte is equal to 8 bits?</string>
+</resources>
