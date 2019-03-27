@@ -226,7 +226,6 @@
             android:layout_below="@id/edit2"
             android:layout_centerHorizontal="true"
             android:layout_margin="8dp"
-            android:onClick="seeScore"
             android:text="@string/submitButton"
             android:textSize="15sp"/>
 
